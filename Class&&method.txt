@@ -12,5 +12,5 @@
  METHOD:column.setPreferredWidth(int)
 FILE
 
-CLASS:File 
+CLASS:file
 METHOD:File.list/File.exist
