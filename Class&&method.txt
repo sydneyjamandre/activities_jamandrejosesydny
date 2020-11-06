@@ -1,0 +1,16 @@
+ class and methods of:
+ STRING
+ CLASS:  char
+ METHOD:charOf(int index)
+ 
+ ARRAY
+ CLASS:ArrayList 
+ METHOD:add(int, object)
+ 
+ TABLE
+ CLASS:TableColumn
+ METHOD:column.setPreferredWidth(int)
+FILE
+
+CLASS:File 
+METHOD:File.list/File.exist

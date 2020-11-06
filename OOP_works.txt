@@ -1,0 +1,7 @@
+ Question:  How the OOP works in arrays, table, string and files manipulation?
+ Answer:
+  OOP focuses on the objects that developers want to manipulate, oop help you to simplefy
+  whats you whats to change sample in arrays you can simple change the variable,in table oop works
+  is also simple put whats table you want to use in your database, becuase you don't have to scroll your code or seeing  yor code
+whats table object you you want to change or manipulate, same in String  And file manipulation
+  
